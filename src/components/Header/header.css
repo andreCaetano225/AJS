@@ -1,0 +1,80 @@
+.h1{
+    color: aquamarine;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 250px;
+    font-size: 80px;
+}
+.video{
+    width: 100%;
+    height: 800px;
+    margin: 0%;
+    position: absolute;
+    object-fit: cover;
+}
+.img1{
+    height: 70px;
+    margin-right: 270px;
+}
+.navbar{
+    float: right;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    /* margin-left: 150px; */
+    background: transparent;
+    position: fixed;
+    width: 100%;
+    transition: background 1s linear;
+    margin-top: 2px;
+}
+.active{
+    display: flex;
+    position: fixed;
+    transition: background 1s linear;
+    background-color: #00b5e4;
+    float: right;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    width: 100%;
+    margin: 0%;
+}
+.navul{
+    margin-top: 15px;
+    list-style: none;
+    display: flex;
+}
+
+.serv{
+  text-decoration: none;
+  color: #FFF;
+  margin-right: 45px;
+  font-size: 25px;
+
+}
+
+.de{
+  text-decoration: none;
+  color: #FFF;
+  margin-right: 45px;
+  font-size: 25px;
+
+}
+
+.cont{
+  text-decoration: none;
+  color: #FFF;
+  font-size: 25px;
+}
+
+.wpp{
+    margin-left: 150px;
+    height: 40px;
+    margin-top: 3px;
+}
+
+.insta{
+    height: 45px;
+    margin-left: 50px;
+}

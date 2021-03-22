@@ -1,0 +1,65 @@
+.servi{
+    background-color: #F9F9F9;
+    height: 1000px;
+    width: 100%;
+    margin-top: 773px;
+}
+.blo{
+    display: flex;
+}
+.h2{
+    font-size: 50px;
+    text-align: center;
+}
+
+.ok{
+  background-color: #FFEBCD;
+  width: 200px;
+  height: 200px;
+  margin-top: 350px;
+  transition: 1.3s;
+  margin-left: 350px;
+}
+
+.ok:hover{
+
+    -webkit-transform: scale(1.3);
+    -ms-transform: scale(1.3);
+    transform: scale(1.3);
+    
+}
+
+
+.ok2{
+
+    background-color: #575757;
+    width: 200px;
+    height: 200px;
+    margin-top: 350px;
+    transition: 1.3s;
+    margin-left: 50px;
+  }
+  
+  .ok2:hover{
+      -webkit-transform: scale(1.3);
+      -ms-transform: scale(1.3);
+      transform: scale(1.3);
+      
+  }
+
+  
+.ok3{
+    background-color: #B1BDC5;
+    width: 200px;
+    height: 200px;
+    margin-top: 350px;
+    transition: 1.3s;
+    margin-left: 50px;
+  }
+  
+  .ok3:hover{
+      -webkit-transform: scale(1.3);
+      -ms-transform: scale(1.3);
+      transform: scale(1.3);
+      
+  }
